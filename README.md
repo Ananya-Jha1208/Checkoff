@@ -1,6 +1,6 @@
 # Checkoff
 <p align="center">
-<img src=""> 
+<img src="https://github.com/Ananya-Jha1208/Checkoff/blob/main/public/css/checkoff.png"> 
 </p>  
 <h2 align="center">
 Your comprehensive task companion, guiding you through the dynamic landscape of daily responsibilities with ease and efficiency!
